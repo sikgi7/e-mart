@@ -91,7 +91,7 @@ text-indent: -99999999999999999px;  width: 0; height: 0; font-size: 0; }
 #wrap section .contents .notice { position: relative; width: 600px; height: 325px; background: #fff; float: left; }
 
 /* 더보기 */
-#wrap section .contents .notice p a.more { display: block; background: #666; text-align: center; font-size: 11px; border-radius: 3px; padding: 2px 5px; position: absolute; top: 10px; right: 35px; color: #fff; }
+#wrap section .contents .notice p a.more { display: block; background: #666; text-align: center; font-size: 11px; border-radius: 3px; padding: 2px 5px; position: absolute; top: 10px; right: 40px; color: #fff; }
 
 #wrap section .contents .notice p a.more:hover { background: #f9b900; }
 
